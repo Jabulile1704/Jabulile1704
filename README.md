@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jabulile Mashibini</h1>
-<h3 align="center">Tech Enthusiast from South Africa | Mobile App Developer | 3x Microsoft Azure Certified</h3>
+<h3 align="center">Tech Enthusiast from South Africa | Mobile App Developer | 5x Microsoft Certified</h3>
 
 - 🔭 I’m currently working on **A Flutter-based app connecting job seekers and employers in the Mangaung Metropolitan Municipality, with Firebase for backend services**
 
