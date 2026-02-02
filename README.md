@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jabulile Mashibini</h1>
 <h3 align="center">
-Cloud & Software Enthusiast | Mobile App Developer | 7x Microsoft Certified | Azure • Security • Data • Software
+Cloud & Software Enthusiast | Mobile App Developer | 6x Microsoft Certified | Azure • Security • Data • Software
 </h3>
 
 ---
@@ -14,34 +14,13 @@ Cloud & Software Enthusiast | Mobile App Developer | 7x Microsoft Certified | Az
 ---
 
 ### 🏆 Certifications & Credentials
-<h3 align="left">🏆 Certifications & Badges</h3>
-
-<p align="left">
-  <!-- Microsoft Azure -->
-  <img src="https://img.shields.io/badge/Microsoft-AZ--104-blue?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-AZ--140-blue?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-DP--900-blue?logo=microsoftazure&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Microsoft Security -->
-  <img src="https://img.shields.io/badge/Microsoft-SC--200-purple?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-SC--300-purple?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-SC--900-purple?logo=microsoft&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Oracle -->
-  <img src="https://img.shields.io/badge/Oracle-OCI%202025%20Certified%20Associate-red?logo=oracle&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Cisco -->
-  <img src="https://img.shields.io/badge/Cisco-Python%20Essentials%201-green?logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Python%20Essentials%202-green?logo=cisco&logoColor=white" />
-</p>
-
+- ✅ **6x Microsoft Certified**
+  - AZ-104 • AZ-140 • AZ-900  
+  - SC-200 • SC-300 • SC-900  
+  - DP-900 (Azure Data Fundamentals)
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified Associate**
+- 🐍 **Cisco Python Essentials 1 & 2**
+- 🎓 **Advanced Diploma in Information Technology**
 
 ---
 
