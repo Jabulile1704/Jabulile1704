@@ -1,28 +1,95 @@
 <h1 align="center">Hi 👋, I'm Jabulile Mashibini</h1>
-<h3 align="center">Tech Enthusiast from South Africa | Mobile App Developer | 5x Microsoft Certified</h3>
+<h3 align="center">
+Cloud & Software Enthusiast | Mobile App Developer | 6x Microsoft Certified | Azure • Security • Data • Software
+</h3>
 
-- 🔭 I’m currently working on **A Flutter-based app connecting job seekers and employers in the Mangaung Metropolitan Municipality, with Firebase for backend services**
+---
 
-- 🌱 I’m currently learning **Flutter advanced concepts (state management with Riverpod), Azure DevOps & Azure App Services, Firebase services (Auth, Firestore, Cloud Functions)**
+### 👨‍💻 About Me
+- 🚀 Passionate about **Cloud Computing, Software Development, and Secure Systems**
+- ☁️ Strong focus on **Microsoft Azure, Identity & Security, Data Fundamentals, and Application Development**
+- 📱 Mobile App Developer with hands-on experience in **Flutter & Firebase**
+- 🎯 Motivated by building **real-world, community-focused solutions** using modern technologies
 
-- 👯 I’m looking to collaborate on **Projects that focus on employment, education, or social upliftment using mobile or cloud-based technologies**
+---
 
-- 🤝 I’m looking for help with **I'm exploring best practices for secure, scalable app backends - especially with Azure and Firebase**
+### 🏆 Certifications & Credentials
+- ✅ **6x Microsoft Certified**
+  - AZ-104 • AZ-140 • AZ-900  
+  - SC-200 • SC-300 • SC-900  
+  - DP-900 (Azure Data Fundamentals)
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified Associate**
+- 🐍 **Cisco Python Essentials 1 & 2**
+- 🎓 **Advanced Diploma in Information Technology**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jabulile1704](https://github.com/Jabulile1704)
+---
 
-- 💬 Ask me about **Flutter & Dart for mobile development, Microsoft Azure administration & deployment, Firebase integration, UI/UX for community-first steps**
+### 🔭 Current Project
+- **Tiro Mo Mangaung**  
+  A Flutter-based job-matching mobile application connecting **Job Seekers and Employers within the Mangaung Metropolitan Municipality**, powered by:
+  - Firebase Authentication
+  - Cloud Firestore
+  - Community-focused UI/UX design
 
-- 📫 How to reach me **jabu.mashibs@gmail.com**
+---
 
-- ⚡ Fun fact **I love merging my passion for Software Development and Cloud Technology to build real-world solutions that uplift communities - one app at a time**
+### 🌱 Currently Upskilling In
+- Advanced **Flutter** (state management & architecture)
+- **Azure App Services & Azure DevOps**
+- Cloud security best practices
+- Scalable backend design with **Firebase & Azure**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 👯 Open To Collaborate On
+- Cloud-native applications
+- Mobile or web platforms with **social impact**
+- Azure, Firebase, and security-focused projects
+
+---
+
+### 💬 Ask Me About
+- Microsoft Azure (Admin, Security, Identity & Data Fundamentals)
+- Flutter & Dart for mobile apps
+- Firebase (Auth, Firestore)
+- Cloud-first application design
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: **jabu.mashibs@gmail.com**
+- 💼 LinkedIn:  
+  <a href="https://linkedin.com/in/jabulile-mashibini" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jabulile-mashibini" height="30" width="40" />
+  </a>
+
+---
+
+### ⚡ Fun Fact
+I enjoy combining **Cloud, Security, and Software Development** to create solutions that are both **technically solid and socially impactful**.
+
+---
+
+### 🛠️ Languages & Tools
 <p align="left">
-<a href="https://linkedin.com/in/jabulile-mashibini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jabulile-mashibini" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabulile1704&show_icons=true&locale=en&layout=compact" alt="jabulile1704" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=jabulile1704&show_icons=true&locale=en&layout=compact" 
+       alt="jabulile1704" />
+</p>
