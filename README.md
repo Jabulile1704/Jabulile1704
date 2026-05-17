@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jabulile Mashibini</h1>
 <h3 align="center">
-Cloud & Software Enthusiast | Mobile App Developer | 7x Microsoft Certified | Azure • Software • Security • Data
+Cloud & Software Enthusiast | Mobile App Developer | 10x Microsoft Certified | Azure • Software • Security • Data
 </h3>
 
 ---
@@ -15,9 +15,10 @@ Cloud & Software Enthusiast | Mobile App Developer | 7x Microsoft Certified | Az
 
 ### 🏆 Certifications & Credentials
 - ✅ **7x Microsoft Certified**
-  - AZ-104 • AZ-140 • AZ-900  
-  - SC-200 • SC-300 • SC-900  
-  - DP-900 (Azure Data Fundamentals)
+  - AZ-204 • AZ-140 • AZ-104  • AZ-900  
+  - SC-200 • SC-300 • SC-900
+  - DP-900 • DP-700
+- ☁️ **AWS Cloud Practitioner**
 - ☁️ **Oracle Cloud Infrastructure 2025 Certified Associate**
 - 🐍 **Cisco Python Essentials 1 & 2**
 - 🎓 **Advanced Diploma in Information Technology**
