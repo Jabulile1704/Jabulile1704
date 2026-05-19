@@ -14,7 +14,7 @@ Cloud & Software Enthusiast | Mobile App Developer | 10x Microsoft Certified | A
 ---
 
 ### 🏆 Certifications & Credentials
-- ✅ **7x Microsoft Certified**
+- ✅ **10x Microsoft Certified**
   - AZ-204 • AZ-140 • AZ-104  • AZ-900  
   - SC-200 • SC-300 • SC-900
   - DP-900 • DP-700
