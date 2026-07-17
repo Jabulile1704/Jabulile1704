@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabulile-mashibini)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabu.mashibs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://jabulile1704.github.io/JM-Mashibini-Website-Portfolio-/)
 [![Profile Views](https://komarev.com/ghpvc/?username=jabulile1704&color=512BD4&style=for-the-badge&label=VISITORS)](https://github.com/Jabulile1704)
 
 </div>
@@ -43,7 +44,7 @@ Determining projects to restore...
 Restored 2 flagship project(s) in 1.7s ✔
 ```
 
-### 🕐 `MoTirong.csproj` — Geo-Verified Staff Attendance Platform &nbsp; ![status](https://img.shields.io/badge/build-in_development-blue?style=flat-square&logo=githubactions&logoColor=white)
+### 🕐 [`MoTirong.csproj`](https://github.com/Jabulile1704/motiroong-mobile) — Geo-Verified Staff Attendance Platform &nbsp; ![status](https://img.shields.io/badge/build-in_development-blue?style=flat-square&logo=githubactions&logoColor=white)
 
 > Cross-platform clock-in/clock-out system for a **government client (Mangaung Metro Municipality)** — **mandatory geo-tagging** + **biometric fingerprint verification**, with fallback strategies for workers with worn fingerprints.
 
@@ -77,7 +78,7 @@ Restored 2 flagship project(s) in 1.7s ✔
 + 🛠️ Admin dashboard for managing listings and applicants
 ```
 
-### ☁️ `az104-labs/` — Azure Administration, Hands-On &nbsp; ![status](https://img.shields.io/badge/docs-published-informational?style=flat-square&logo=github&logoColor=white)
+### ☁️ [`az104-labs/`](https://github.com/Jabulile1704/azure-virtual-networking) — Azure Administration, Hands-On &nbsp; ![status](https://img.shields.io/badge/docs-published-informational?style=flat-square&logo=github&logoColor=white)
 
 > Practical Azure admin labs — **identity · governance · compute · storage · virtual networking** — documented right here on GitHub.
 
@@ -89,7 +90,7 @@ Restored 2 flagship project(s) in 1.7s ✔
 ## 🧪 `dotnet test ./Certifications.Tests` — all green ✅
 
 ```text
-Test run for Certifications.dll (15 tests)
+Test run for Certifications.dll (16 tests)
 
   ✔ Azure_AZ104_AzureAdministratorAssociate ............ PASSED
   ✔ Azure_AZ204_AzureDeveloperAssociate ................ PASSED
@@ -105,9 +106,10 @@ Test run for Certifications.dll (15 tests)
   ✔ Oracle_OCI2025_CertifiedAssociate .................. PASSED
   ✔ Cisco_PythonEssentials_1_and_2 ..................... PASSED
   ✔ ISO_27001_2022_ImplementationTraining .............. PASSED
+  ✔ ETDP_SETA_RegisteredAssessor ....................... PASSED
   ⏳ Microsoft_CertifiedTrainer_MCT .................... IN PROGRESS
 
-Passed: 14 · In Progress: 1 · Failed: 0 🏆
+Passed: 15 · In Progress: 1 · Failed: 0 🏆
 ```
 
 🎓 **Advanced Diploma in Information Technology** — Central University of Technology
@@ -226,6 +228,7 @@ Console.WriteLine("Let's build something impactful together 🚀");
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jabulile--mashibini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabulile-mashibini)
 [![Email](https://img.shields.io/badge/jabu.mashibs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabu.mashibs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_jabulile1704.github.io-Live_Portfolio-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://jabulile1704.github.io/JM-Mashibini-Website-Portfolio-/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:512BD4,100:0078D4&height=120&section=footer" width="100%"/>
 
