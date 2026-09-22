@@ -35,7 +35,7 @@ const build = [
   [670, 'Robotics Intro', 'Arduino · C++', 'down'],
   [765, 'RobotoRemote', 'C# ↔ Arduino', 'up'],
   [850, 'MoTiroong', 'gov client · in build', 'down'],
-  [952, 'Mashibini Prayer', 'under construction', 'up', 'end'],
+  [952, 'Mashibini Prayer', 'daily prayer app', 'up', 'end'],
 ];
 for (const [x, n, s, d, a = 'middle'] of build) {
   if (d === 'up') { L(x, BY - 40, n, 'n', a); L(x, BY - 24, s, 's', a); }
