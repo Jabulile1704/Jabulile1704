@@ -20,10 +20,10 @@ const BY = 350, CY = 190, CY2 = 510, XY = 620;
 
 // Career line
 L(60, CY - 34, 'CUT', 'n', 'start'); L(60, CY - 18, 'Adv. Diploma in IT', 's', 'start');
-L(290, CY - 34, 'WWISE', 'n'); L(290, CY - 18, 'facilitator · 2025', 's');
+L(290, CY - 34, 'WWISE', 'n'); L(290, CY - 18, 'facilitator · 2025–26', 's');
 L(388, BY + 74, 'CTU', 'n', 'start'); L(388, BY + 90, 'facilitator · NQF 6', 's', 'start');
 L(600, CY2 - 34, 'SETA Assessor', 'n'); L(600, CY2 - 18, 'ETDP registered', 's');
-L(900, CY2 - 34, 'MCT', 'n'); L(900, CY2 - 18, 'next stop', 's');
+L(900, CY2 - 34, 'MCT', 'n'); L(900, CY2 - 18, 'certified trainer', 's');
 
 // Build line (chronological by repo creation)
 const build = [
@@ -45,8 +45,8 @@ for (const [x, n, s, d, a = 'middle'] of build) {
 // Cert line
 const cert = [
   [60, 'Fundamentals', 'AZ/SC/DP-900 · Cisco', 'down', 'start'],
-  [215, 'AWS · OCI', 'CCP · OCI Associate', 'up'],
-  [370, 'Associate ×4', 'AZ-104 AZ-204 DP-700 PL-300', 'down'],
+  [215, 'AWS · OCI', 'CCP · OCI Foundations', 'up'],
+  [370, 'Associate ×5', 'AZ-104 AZ-204 AI-200 DP-700 PL-300', 'down'],
   [525, 'AZ-140', 'Virtual Desktop specialty', 'up'],
   [680, 'Security', 'SC-200 SC-300 ISO 27001', 'down'],
 ];
@@ -55,7 +55,7 @@ for (const [x, n, s, d, a = 'middle'] of cert) {
   else { L(x, XY + 34, n, 'n', a); L(x, XY + 50, s, 's', a); }
 }
 
-const legend = ['Career line', 'Build line', 'Cert line', 'Interchange', '15 certs passed · 9 builds'];
+const legend = ['Career line', 'Build line', 'Cert line', 'Interchange', '16 certs · 9 builds'];
 const title = 'Jabulile Mashibini';
 const subtitle = 'Network map · software engineer & educator · South Africa';
 const corner = ['not to scale', 'rev. 2026.09'];
@@ -87,8 +87,7 @@ const ix = (x, y, t, dashed = false) =>
 function svg(t) {
   const W = 1000, H = 780;
   const lines = `
-<path d="M60 ${CY} H310 Q370 ${CY} 370 ${CY + 70} V${CY2 - 70} Q370 ${CY2} 440 ${CY2} H780" fill="none" stroke="${t.career}" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M780 ${CY2} H900" fill="none" stroke="${t.career}" stroke-width="9" stroke-linecap="round" stroke-dasharray="1 16"/>
+<path d="M60 ${CY} H310 Q370 ${CY} 370 ${CY + 70} V${CY2 - 70} Q370 ${CY2} 440 ${CY2} H900" fill="none" stroke="${t.career}" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M60 ${BY} H850" fill="none" stroke="${t.build}" stroke-width="9" stroke-linecap="round"/>
 <path d="M850 ${BY} H940" fill="none" stroke="${t.build}" stroke-width="9" stroke-linecap="round" stroke-dasharray="1 16"/>
 <path d="M60 ${XY} H830 Q900 ${XY} 900 ${XY - 70} V${CY2 + 10}" fill="none" stroke="${t.cert}" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>`;
@@ -96,7 +95,7 @@ function svg(t) {
     st(60, CY, t.career, t), st(290, CY, t.career, t), st(600, CY2, t.career, t),
     ...build.map(([x, n]) => n === 'MoTiroong' ? st(x, BY, t.build, t, { r: 12 }) : n === 'Mashibini Prayer' ? st(940, BY, t.build, t, { dashed: true }) : st(x, BY, t.build, t)),
     ...cert.map(([x]) => st(x, XY, t.cert, t)),
-    ix(370, BY, t), ix(900, CY2, t, true),
+    ix(370, BY, t), ix(900, CY2, t),
   ].join('');
   const text = labels.map(([x, y, s, c, a]) => `<text x="${x}" y="${y}" class="${c}" text-anchor="${a}">${esc(s)}</text>`).join('');
   const lg = [
