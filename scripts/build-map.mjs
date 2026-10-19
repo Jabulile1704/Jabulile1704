@@ -37,7 +37,7 @@ const build = [
   [860, 'Yetsa', 'Swift · SwiftUI', 'down'],
   [960, 'Zaka', 'Swift · SwiftData', 'up'],
   [1050, 'MoTiroong', 'gov client · in build', 'down'],
-  [1152, 'Mashibini Prayer', 'daily prayer app', 'up', 'end'],
+  [1152, 'Mashibini Prayer', 'family prayer rota', 'up', 'end'],
 ];
 for (const [x, n, s, d, a = 'middle'] of build) {
   if (d === 'up') { L(x, BY - 40, n, 'n', a); L(x, BY - 24, s, 's', a); }

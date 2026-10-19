@@ -27,7 +27,7 @@ I teach software engineering at CTU Training Solutions and build things in betwe
 | [**FreshFadez**](https://github.com/Jabulile1704/fresh_fadez) | Salon booking app. Services, stylists and appointments in an animated UI. Backend is next. | Flutter · Dart |
 | [**TiroMoMangaung**](https://github.com/Jabulile1704/TiroMoMangaung) | A job board for Mangaung that tells you how far each job is from you. CV uploads, push notifications, application tracking and an admin dashboard. | Flutter · Firebase |
 | [**AZ-104 Labs**](https://github.com/Jabulile1704/azure-virtual-networking) | Azure admin labs covering identity, governance, compute, storage and networking, written up so someone else can follow them. | Azure · Entra ID |
-| [**Mashibini Prayer**](https://github.com/Jabulile1704/Mashibini-Prayer) | A daily prayer app. Early days, still being built. | Flutter · Firebase |
+| [**Mashibini Prayer**](https://github.com/Jabulile1704/Mashibini-Prayer) | A rota my family already keeps: each of us takes a week to lead family prayer, and the app holds the cycle so nobody has to remember whose turn it is. Daily verse and a prayer journal alongside it. Still being built. | Flutter · Firebase |
 
 <br>
 
