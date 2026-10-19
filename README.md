@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
-  <img alt="Jabulile Mashibini drawn as a transit map. The career line runs from CUT through WWISE and CTU to MCT. The build line runs through nine projects from AZ-104 Labs to Mashibini Prayer. The cert line runs through sixteen certifications and joins the career line at MCT, Microsoft Certified Trainer." src="assets/map-light.svg" width="100%">
+  <img alt="Jabulile Mashibini drawn as a transit map. The career line runs from CUT through WWISE and CTU to MCT. The build line runs through eleven projects from AZ-104 Labs to Mashibini Prayer. The cert line runs through sixteen certifications and joins the career line at MCT, Microsoft Certified Trainer." src="assets/map-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:jabu.mashibs@gmail.com">jabu.mashibs@gmail.com</a>
 </p>
 
-I teach software engineering at CTU Training Solutions and build things in between classes, mostly Flutter on the front with Azure or Firebase behind it. Lately that includes a bit of Arduino too. The map above is roughly how the last couple of years have gone: one line for work, one for things I've built, one for exams.
+I teach software engineering at CTU Training Solutions and build things in between classes, mostly Flutter on the front with Azure or Firebase behind it. Lately that includes native iOS in Swift, and a bit of Arduino too. The map above is roughly how the last couple of years have gone: one line for work, one for things I've built, one for exams.
 
 <br>
 
@@ -18,6 +18,8 @@ I teach software engineering at CTU Training Solutions and build things in betwe
 | Station | What it is | Stack |
 |:--|:--|:--|
 | [**MoTiroong**](https://github.com/Jabulile1704/motiroong-mobile) | Staff clock-ins for Mangaung Metro Municipality. Location and fingerprint both have to match, with fallbacks for people whose prints have worn down from manual work. Split across [backend](https://github.com/Jabulile1704/motiroong-backend) and [admin](https://github.com/Jabulile1704/admin-motiroong) repos. | Flutter · Firebase · Cloud Functions · Next.js |
+| [**Zaka**](https://github.com/Jabulile1704/Zaka) | An expense tracker for iPhone. Everything stays on the device — no account, no network — and the whole log exports as CSV. Loyalty cards keep a scannable barcode for the till. | Swift · SwiftUI · SwiftData |
+| [**Yetsa**](https://github.com/Jabulile1704/Yetsa) | Sesotho for *to do*. A planner that treats a day as a fixed scaffold with free windows in it, so each window can say what it still has room for. Alarms through AlarmKit. | Swift · SwiftUI · AlarmKit |
 | [**RobotoRemote**](https://github.com/Jabulile1704/RobotoRemote) | A desktop remote for an Arduino Uno. Toggles four LEDs on a breadboard over USB serial, in real time. | C# · WinForms · Arduino |
 | [**Robotics Intro**](https://github.com/Jabulile1704/Robotics_Intro) | Non-blocking Arduino state machine. Tap to start, double-tap to stop, hold two seconds to reset. Servo sweep, ultrasonic distance and an LCD countdown. | C++ · Arduino |
 | [**MzansiPayrollSystem**](https://github.com/Jabulile1704/MzansiPayrollSystem) | A Windows Forms payroll system covered by unit, integration and system tests. | C# · WinForms · MSTest |
@@ -56,7 +58,7 @@ Microsoft Certified Trainer and registered ETDP SETA assessor.
 
 <br>
 
-**Rolling stock** &nbsp; C# · ASP.NET Core · Java · Dart/Flutter · Python · JavaScript · SQL · PostgreSQL · Firebase · Azure · AWS · GitHub Actions · Arduino · Linux
+**Rolling stock** &nbsp; C# · ASP.NET Core · Java · Swift/SwiftUI · SwiftData · Dart/Flutter · Python · JavaScript · SQL · PostgreSQL · Firebase · Azure · AWS · GitHub Actions · Arduino · Linux
 
 **Now boarding** &nbsp; CI/CD with GitHub Actions and Azure DevOps · clean architecture in Flutter · cloud security
 
