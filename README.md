@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
-  <img alt="Jabulile Mashibini drawn as a transit map. The career line runs from CUT through WWISE and CTU to MCT. The build line runs through eleven projects from AZ-104 Labs to Mashibini Prayer. The cert line runs through sixteen certifications and joins the career line at MCT, Microsoft Certified Trainer." src="assets/map-light.svg" width="100%">
+  <img alt="Jabulile Mashibini drawn as a transit map. The career line runs from CUT through WWISE, CTU and Mashibini Technologies to MCT. The build line runs through eleven projects from AZ-104 Labs to Mashibini Prayer. The cert line runs through sixteen certifications and joins the career line at MCT, Microsoft Certified Trainer." src="assets/map-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -35,6 +35,9 @@ I teach software engineering at CTU Training Solutions and build things in betwe
 
 **CTU Training Solutions** · Software Engineering Facilitator, NQF Level 6 · *now*\
 C#, Java, ASP.NET and .NET, software design and testing. I also run the Git/GitHub workflow sessions and AZ-204 bootcamp labs, do code reviews and mentor learner projects.
+
+**Mashibini Technologies** · Founder & Software Developer · *2025 – now*\
+A registered South African software company doing mobile and cloud development alongside IT training. Client and product work, delivered remotely.
 
 **WWISE** · Software Development Facilitator · *2025 – 2026*\
 Python, JavaScript, HTML/CSS, SQL and web APIs, plus Power BI and PowerApps.

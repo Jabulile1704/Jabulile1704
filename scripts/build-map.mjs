@@ -22,7 +22,8 @@ const BY = 350, CY = 190, CY2 = 510, XY = 620;
 L(60, CY - 34, 'CUT', 'n', 'start'); L(60, CY - 18, 'Adv. Diploma in IT', 's', 'start');
 L(290, CY - 34, 'WWISE', 'n'); L(290, CY - 18, 'facilitator · 2025–26', 's');
 L(388, BY + 74, 'CTU', 'n', 'start'); L(388, BY + 90, 'facilitator · NQF 6', 's', 'start');
-L(600, CY2 - 34, 'SETA Assessor', 'n'); L(600, CY2 - 18, 'ETDP registered', 's');
+L(480, CY2 + 34, 'Mashibini Tech', 'n'); L(480, CY2 + 50, 'founder · since 2025', 's');
+L(640, CY2 - 34, 'SETA Assessor', 'n'); L(640, CY2 - 18, 'ETDP registered', 's');
 L(1100, CY2 - 34, 'MCT', 'n'); L(1100, CY2 - 18, 'certified trainer', 's');
 
 // Build line (chronological by repo creation)
@@ -94,7 +95,7 @@ function svg(t) {
 <path d="M1050 ${BY} H1140" fill="none" stroke="${t.build}" stroke-width="9" stroke-linecap="round" stroke-dasharray="1 16"/>
 <path d="M60 ${XY} H1030 Q1100 ${XY} 1100 ${XY - 70} V${CY2 + 10}" fill="none" stroke="${t.cert}" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>`;
   const stations = [
-    st(60, CY, t.career, t), st(290, CY, t.career, t), st(600, CY2, t.career, t),
+    st(60, CY, t.career, t), st(290, CY, t.career, t), st(480, CY2, t.career, t), st(640, CY2, t.career, t),
     ...build.map(([x, n]) => n === 'MoTiroong' ? st(x, BY, t.build, t, { r: 12 }) : n === 'Mashibini Prayer' ? st(1140, BY, t.build, t, { dashed: true }) : st(x, BY, t.build, t)),
     ...cert.map(([x]) => st(x, XY, t.cert, t)),
     ix(370, BY, t), ix(1100, CY2, t),
