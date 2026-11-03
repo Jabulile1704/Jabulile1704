@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://jabulile1704.github.io/JM-Mashibini-Website-Portfolio-/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://jabulile1704.github.io/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/jabulile-mashibini">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:jabu.mashibs@gmail.com">jabu.mashibs@gmail.com</a>
 </p>
